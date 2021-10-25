@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jennifertran1209
+- 👀 I’m interested in coding better.
+- 🌱 I’m currently learning java.
+- 💞️ I’m looking to collaborate on coding games.
